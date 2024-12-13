@@ -71,3 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # scrapped_data_frontend
 # display_data
 # display_data
+# scrapped_data_frontend
